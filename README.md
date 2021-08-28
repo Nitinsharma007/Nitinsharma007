@@ -1,4 +1,4 @@
-#### Hi there 👋! My name is Nitin Sharma<br>
+#### Hi there 👋! My name is Nitin Sharma<hr>
 #### A passionate frontend developer from India
 
 Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP 
