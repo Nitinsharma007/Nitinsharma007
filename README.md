@@ -1,4 +1,5 @@
 #### Hi there 👋
+<p>
 ### My name is Nitin Sharma
 #### A passionate frontend developer from India
 
